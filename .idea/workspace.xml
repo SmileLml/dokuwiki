@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bda61298-9403-43b8-800b-711e2162cb44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/conf/dokuwiki.php" beforeDir="false" afterPath="$PROJECT_DIR$/conf/dokuwiki.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/Input.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Input.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/config_cascade.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/config_cascade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.php" beforeDir="false" afterPath="$PROJECT_DIR$/install.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/install.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#6#102#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/lang/zh/lang.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="299" column="18" selection-start-line="299" selection-start-column="7" selection-end-line="299" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-150">
+              <caret line="249" column="7" lean-forward="true" selection-start-line="249" selection-start-column="7" selection-end-line="249" selection-end-column="7" />
+              <folding>
+                <element signature="e#6#36#0#PHP" expanded="true" />
+                <element signature="e#6488#6768#0#PHP" />
+                <element signature="n#init_session#0;n#!!top" />
+                <element signature="e#7025#7189#0#PHP" />
+                <element signature="e#7216#7256#0#PHP" />
+                <element signature="n#init_paths#0;n#!!top" />
+                <element signature="e#7313#7628#0#PHP" />
+                <element signature="e#7635#8077#0#PHP" />
+                <element signature="e#7822#8070#0#PHP" />
+                <element signature="n#a#0;n#!!top" />
+                <element signature="e#8268#8348#0#PHP" />
+                <element signature="e#8559#8667#0#PHP" />
+                <element signature="n#init_lang#0;n#!!top" />
+                <element signature="e#8868#9051#0#PHP" />
+                <element signature="e#8936#9045#0#PHP" />
+                <element signature="e#9057#9464#0#PHP" />
+                <element signature="e#9103#9236#0#PHP" />
+                <element signature="e#9245#9458#0#PHP" />
+                <element signature="e#9317#9448#0#PHP" />
+                <element signature="e#10263#10295#0#PHP" />
+                <element signature="n#init_files#0;n#!!top" />
+                <element signature="e#9647#10009#0#PHP" />
+                <element signature="e#9683#10003#0#PHP" />
+                <element signature="e#9760#9993#0#PHP" />
+                <element signature="e#9888#9993#0#PHP" />
+                <element signature="e#10013#10261#0#PHP" />
+                <element signature="n#init_path#0;n#!!top" />
+                <element signature="e#10343#10478#0#PHP" />
+                <element signature="e#10416#10472#0#PHP" />
+                <element signature="e#10509#10558#0#PHP" />
+                <element signature="e#10621#10688#0#PHP" />
+                <element signature="e#11503#11597#0#PHP" />
+                <element signature="n#init_creationmodes#0;n#!!top" />
+                <element signature="e#11782#12130#0#PHP" />
+                <element signature="n#getBaseURL#0;n#!!top" />
+                <element signature="e#12293#12872#0#PHP" />
+                <element signature="e#12364#12475#0#PHP" />
+                <element signature="e#12476#12581#0#PHP" />
+                <element signature="e#12582#12822#0#PHP" />
+                <element signature="e#12665#12779#0#PHP" />
+                <element signature="e#12823#12872#0#PHP" />
+                <element signature="e#13549#14143#0#PHP" />
+                <element signature="e#13810#14078#0#PHP" />
+                <element signature="e#14079#14143#0#PHP" />
+                <element signature="e#14149#14196#0#PHP" />
+                <element signature="e#14202#14421#0#PHP" />
+                <element signature="e#14255#14309#0#PHP" />
+                <element signature="e#14316#14421#0#PHP" />
+                <element signature="e#14360#14415#0#PHP" />
+                <element signature="e#14512#14725#0#PHP" />
+                <element signature="n#is_ssl#0;n#!!top" />
+                <element signature="e#14796#14989#0#PHP" />
+                <element signature="e#14853#14983#0#PHP" />
+                <element signature="e#14941#14983#0#PHP" />
+                <element signature="e#14994#15159#0#PHP" />
+                <element signature="e#15126#15159#0#PHP" />
+                <element signature="e#15163#15213#0#PHP" />
+                <element signature="n#isWindows#0;n#!!top" />
+                <element signature="e#15312#15410#0#PHP" />
+                <element signature="n#nice_die#0;n#!!top" />
+                <element signature="e#15446#15810#0#PHP" />
+                <element signature="n#html#0;n#!!top" />
+                <element signature="n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#15816#15910#0#PHP" />
+                <element signature="e#15927#16316#0#PHP" />
+                <element signature="n#fullpath#0;n#!!top" />
+                <element signature="e#16586#17004#0#PHP" />
+                <element signature="e#16636#17004#0#PHP" />
+                <element signature="e#16706#16998#0#PHP" />
+                <element signature="e#16844#16998#0#PHP" />
+                <element signature="e#17137#17415#0#PHP" />
+                <element signature="e#17250#17409#0#PHP" />
+                <element signature="e#17512#17714#0#PHP" />
+                <element signature="e#17591#17674#0#PHP" />
+                <element signature="e#17835#17934#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/load.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-392" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/mail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/plugincontroller.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4785">
+              <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/Input.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4170">
+              <caret line="278" column="13" selection-start-line="278" selection-start-column="13" selection-end-line="278" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doku.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="18" column="6" selection-start-line="18" selection-end-line="18" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/license.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/dokuwiki.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="148" column="18" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PHP_IDE_CONFIG</find>
+      <find>msgpack</find>
+      <find>INSTALL_PCOV</find>
+      <find>PHP_FPM_INSTALL_PCOV</find>
+      <find>COMPOSE_PATH_SEPARATOR</find>
+      <find>COMPOSE_FILE</find>
+      <find>PHP_FPM_DEFAULT_LOCALE</find>
+      <find>short_open_tag</find>
+      <find>safe_mode</find>
+      <find>safe_</find>
+      <find>safe</find>
+      <find>output_buffering</find>
+      <find>output_handler</find>
+      <find>register_globals</find>
+      <find>PHP_FPM_INSTALL_CALENDAR</find>
+      <find>NGINX_SITES_PATH</find>
+      <find>canonical</find>
+      <find>gzip_output</find>
+      <find>DOKU_DISABLE_GZIP_OUTPUT</find>
+      <find>cookiedir</find>
+      <find>indexdir</find>
+      <find>compression</find>
+      <find>i_installer</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DokuDock/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/DokuDock/workspace/Dockerfile" />
+        <option value="$PROJECT_DIR$/DokuDock/php-fpm/Dockerfile" />
+        <option value="$PROJECT_DIR$/source/inc/init.php" />
+        <option value="$PROJECT_DIR$/DokuDock/.env" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/dock/.env" />
+        <option value="$PROJECT_DIR$/dock/php-fpm/conf/php7.2.ini" />
+        <option value="$PROJECT_DIR$/dock/php-fpm/Dockerfile" />
+        <option value="$PROJECT_DIR$/dock/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/dock/nginx/sites-available/default.conf" />
+        <option value="$PROJECT_DIR$/install.php" />
+        <option value="$PROJECT_DIR$/inc/config_cascade.php" />
+        <option value="$PROJECT_DIR$/conf/dokuwiki.php" />
+        <option value="$PROJECT_DIR$/inc/Input.class.php" />
+        <option value="$PROJECT_DIR$/inc/init.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DokuWiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DokuWiki" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DokuWiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DokuWiki" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DokuWiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DokuWiki" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DokuWiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DokuWiki" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DokuWiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DokuWiki" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dock" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda61298-9403-43b8-800b-711e2162cb44" name="Default Changelist" comment="" />
+      <created>1582129928348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582129928348</updated>
+      <workItem from="1582129930375" duration="2039000" />
+      <workItem from="1582133175637" duration="6920000" />
+      <workItem from="1582182192780" duration="6906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15865000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32901135" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2780822" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/inc/init.php</url>
+          <line>294</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yafdock/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/yafdock/.env" />
+    <entry file="file://$PROJECT_DIR$/source/README" />
+    <entry file="file://$PROJECT_DIR$/DokuDock/nginx/startup.sh" />
+    <entry file="file://$PROJECT_DIR$/DokuDock/nginx/conf/nginx.conf" />
+    <entry file="file://$PROJECT_DIR$/DokuDock/nginx/sites-available/default.conf" />
+    <entry file="file://$PROJECT_DIR$/source/index.php" />
+    <entry file="file://$PROJECT_DIR$/source/install.php" />
+    <entry file="file://$PROJECT_DIR$/DokuDock/workspace/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/DokuDock/.env" />
+    <entry file="file://$PROJECT_DIR$/DokuDock/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/DokuDock/nginx/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/source/inc/init.php" />
+    <entry file="file://$PROJECT_DIR$/DokuDock/php-fpm/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/source/.htaccess.dist" />
+    <entry file="file://$PROJECT_DIR$/source/conf/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/source/conf/acl.auth.php.dist" />
+    <entry file="file://$PROJECT_DIR$/source/conf/acl.auth.php" />
+    <entry file="file://$PROJECT_DIR$/source/conf/local.php" />
+    <entry file="file://$PROJECT_DIR$/dock/php-fpm/xhprof.ini" />
+    <entry file="file://$PROJECT_DIR$/dock/nginx/logrotate/nginx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dock/nginx/conf/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dock/php-fpm/conf/php7.2.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="815" column="12" selection-start-line="815" selection-start-column="12" selection-end-line="815" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dock/php-fpm/default.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dock/php-fpm/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dock/nginx/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dock/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dock/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="16" selection-start-line="63" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dock/nginx/sites-available/default.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="669" column="9" selection-start-line="669" selection-start-column="9" selection-end-line="669" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/preload.php.dist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/config_cascade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/license.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doku.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="6" selection-start-line="18" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/index/page.idx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/dokuwiki.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="148" column="18" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/Input.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4170">
+          <caret line="278" column="13" selection-start-line="278" selection-start-column="13" selection-end-line="278" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/plugincontroller.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4785">
+          <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/load.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-392" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="249" column="7" lean-forward="true" selection-start-line="249" selection-start-column="7" selection-end-line="249" selection-end-column="7" />
+          <folding>
+            <element signature="e#6#36#0#PHP" expanded="true" />
+            <element signature="e#6488#6768#0#PHP" />
+            <element signature="n#init_session#0;n#!!top" />
+            <element signature="e#7025#7189#0#PHP" />
+            <element signature="e#7216#7256#0#PHP" />
+            <element signature="n#init_paths#0;n#!!top" />
+            <element signature="e#7313#7628#0#PHP" />
+            <element signature="e#7635#8077#0#PHP" />
+            <element signature="e#7822#8070#0#PHP" />
+            <element signature="n#a#0;n#!!top" />
+            <element signature="e#8268#8348#0#PHP" />
+            <element signature="e#8559#8667#0#PHP" />
+            <element signature="n#init_lang#0;n#!!top" />
+            <element signature="e#8868#9051#0#PHP" />
+            <element signature="e#8936#9045#0#PHP" />
+            <element signature="e#9057#9464#0#PHP" />
+            <element signature="e#9103#9236#0#PHP" />
+            <element signature="e#9245#9458#0#PHP" />
+            <element signature="e#9317#9448#0#PHP" />
+            <element signature="e#10263#10295#0#PHP" />
+            <element signature="n#init_files#0;n#!!top" />
+            <element signature="e#9647#10009#0#PHP" />
+            <element signature="e#9683#10003#0#PHP" />
+            <element signature="e#9760#9993#0#PHP" />
+            <element signature="e#9888#9993#0#PHP" />
+            <element signature="e#10013#10261#0#PHP" />
+            <element signature="n#init_path#0;n#!!top" />
+            <element signature="e#10343#10478#0#PHP" />
+            <element signature="e#10416#10472#0#PHP" />
+            <element signature="e#10509#10558#0#PHP" />
+            <element signature="e#10621#10688#0#PHP" />
+            <element signature="e#11503#11597#0#PHP" />
+            <element signature="n#init_creationmodes#0;n#!!top" />
+            <element signature="e#11782#12130#0#PHP" />
+            <element signature="n#getBaseURL#0;n#!!top" />
+            <element signature="e#12293#12872#0#PHP" />
+            <element signature="e#12364#12475#0#PHP" />
+            <element signature="e#12476#12581#0#PHP" />
+            <element signature="e#12582#12822#0#PHP" />
+            <element signature="e#12665#12779#0#PHP" />
+            <element signature="e#12823#12872#0#PHP" />
+            <element signature="e#13549#14143#0#PHP" />
+            <element signature="e#13810#14078#0#PHP" />
+            <element signature="e#14079#14143#0#PHP" />
+            <element signature="e#14149#14196#0#PHP" />
+            <element signature="e#14202#14421#0#PHP" />
+            <element signature="e#14255#14309#0#PHP" />
+            <element signature="e#14316#14421#0#PHP" />
+            <element signature="e#14360#14415#0#PHP" />
+            <element signature="e#14512#14725#0#PHP" />
+            <element signature="n#is_ssl#0;n#!!top" />
+            <element signature="e#14796#14989#0#PHP" />
+            <element signature="e#14853#14983#0#PHP" />
+            <element signature="e#14941#14983#0#PHP" />
+            <element signature="e#14994#15159#0#PHP" />
+            <element signature="e#15126#15159#0#PHP" />
+            <element signature="e#15163#15213#0#PHP" />
+            <element signature="n#isWindows#0;n#!!top" />
+            <element signature="e#15312#15410#0#PHP" />
+            <element signature="n#nice_die#0;n#!!top" />
+            <element signature="e#15446#15810#0#PHP" />
+            <element signature="n#html#0;n#!!top" />
+            <element signature="n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#15816#15910#0#PHP" />
+            <element signature="e#15927#16316#0#PHP" />
+            <element signature="n#fullpath#0;n#!!top" />
+            <element signature="e#16586#17004#0#PHP" />
+            <element signature="e#16636#17004#0#PHP" />
+            <element signature="e#16706#16998#0#PHP" />
+            <element signature="e#16844#16998#0#PHP" />
+            <element signature="e#17137#17415#0#PHP" />
+            <element signature="e#17250#17409#0#PHP" />
+            <element signature="e#17512#17714#0#PHP" />
+            <element signature="e#17591#17674#0#PHP" />
+            <element signature="e#17835#17934#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/lang/zh/admin.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/lang/zh/lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="299" column="18" selection-start-line="299" selection-start-column="7" selection-end-line="299" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#6#102#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

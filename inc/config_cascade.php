@@ -1,9 +1,9 @@
 <?php
 /**
- * The default config cascade
+ * 默认配置级联
  *
- * This array configures the default locations of various files in the
- * DokuWiki directory hierarchy. It can be overriden in inc/preload.php
+ * 默认配置级联此数组配置文件中各个文件的默认位置
+ * DokuWiki目录层次结构. 可以在inc/preload.php中覆盖它
  */
 $config_cascade = array_merge(
     array(

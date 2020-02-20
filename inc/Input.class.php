@@ -1,11 +1,9 @@
 <?php
 
 /**
- * Encapsulates access to the $_REQUEST array, making sure used parameters are initialized and
- * have the correct type.
- *
- * All function access the $_REQUEST array by default, if you want to access $_POST or $_GET
- * explicitly use the $post and $get members.
+ * 封装对$ _REQUEST数组的访问，确保已初始化使用的参数并具有正确的类型。
+ *
+ * 如果要访问$ _POST或$ _GET，则默认情况下，所有函数都将访问$ _REQUEST数组明确使用$ post和$ get成员。
  *
  * @author Andreas Gohr <andi@splitbrain.org>
  */
